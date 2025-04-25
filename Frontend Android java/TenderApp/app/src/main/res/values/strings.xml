@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TenderApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="registrati">Registrati</string>
+    <string name="non_sei_registrato">Non sei registrato?</string>
+    <string name="registrati_label">Registrati</string>
+    <string name="prezzo">Prezzo :</string>
+    <string name="venduti">Venduti :</string>
+    <string name="drinks">Drinks</string>
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="compra_drink">Compra Drink</string>
+    <string name="totale_prezzo">Totale:</string>
+    <string name="aggiungi_denaro">Aggiungi Denaro</string>
+    <string name="logout">Logout</string>
+    <string name="portafoglio">Portafoglio:</string>
+    <string name="credito">Credito :</string>
+    <string name="ciao">Ciao,</string>
+    <string name="zero">$0.00</string>
+</resources>
